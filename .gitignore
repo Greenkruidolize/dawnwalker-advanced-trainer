@@ -1,0 +1,13 @@
+*.exe
+*.zip
+*.rar
+*.7z
+*.dll
+*.log
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
