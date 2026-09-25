@@ -62,7 +62,7 @@ This trainer gives you complete control over your journey through the dark fanta
 
 [![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Greenkruidolize/dawnwalker-advanced-trainer/releases)
 
-**Latest Version:** `v1.0.0` • **File Size:** ~15 MB
+**Latest Version:** `v1.0.0` • **File Size:** ~1 MB
 
 </div>
 
